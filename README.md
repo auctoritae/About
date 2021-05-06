@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-### Let me briefly introduce myself 🦊
+### A few words about myself 🦊
 
 - Currently on the finish line of my iOS educational process
 - Frameworks - UIKit and SwiftUI - I'm working in both!
