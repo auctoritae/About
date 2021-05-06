@@ -1,8 +1,5 @@
 ### Hi everyone 👋
 
-<!--
-**alexnorse/alexnorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Currently on the finish line of my educational process (specifically  
 - Frameworks - UIKit and SwiftUI - I'm working in both!
 - Preparing to launch my first App in AppStore this summer
