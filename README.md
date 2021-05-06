@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- Currently on the finish line of my educational process (specifically  
+- Currently on the finish line of my educational process (specifically Architectures and Networking)
 - Frameworks - UIKit and SwiftUI - I'm working in both!
 - Preparing to launch my first App in AppStore this summer
 - While you can see a few fully self-made projects right now on my page
