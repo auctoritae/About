@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 ## My name is Alex. I'm beginning iOS developer and author of Presnya Hedonists App.
-## There are few words to introduce my story:
+## There are few more words for introduction:
 - Entered iOS world in 2020 - I've started learning during the pandemic🧐
 - Switched my career in marketing to tech😋
 - Now open for the full-time iOS engineer position🧑‍💻
