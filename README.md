@@ -1,6 +1,5 @@
 ### Hi everyone 👋
 ### My name is Alex. I'm beginning iOS developer from Moscow, Russia.
-### There are few words for better introduction:
 - 🧐 Entered iOS world in 2020 - I've started learning during the pandemic
 - 😋 Switched my career in marketing to tech
 - 🧑‍💻 Now open for the full-time iOS engineer position
