@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-### My name is Alex. I'm iOS developer from Moscow, Russia.
+### My name is Alex. I'm iOS developer.
 - 🍎 iOS developer since 2020
 - 🧑‍💻 Currently working at START (streaming service)
 - 📲 Created and launched 2 Apps - Hedonists and Mind Hooks
