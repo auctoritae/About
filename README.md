@@ -2,7 +2,7 @@
 ### My name is Alex
 - 🍎 iOS developer. Swift only
 - 🧑‍💻 Currently working at START (streaming service)
-- 📲 Creator of Hedonist and Mind Hooks apps
+- 📲 Creator of Hedonist app
 - 🤝 Ready to project collaborations
 - 🎉 Always glad to get new connections in the tech community
 
