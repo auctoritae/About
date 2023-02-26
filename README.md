@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 ### My name is Alex
 - 🍎 iOS developer. Swift only
-- 🧑‍💻 Currently working at START (streaming service)
+- 🧑‍💻 Currently working at START Streaming service
 - 📲 Creator of Hedonist app
 - 🤝 Ready to project collaborations
 - 🎉 Always glad to get new connections in the tech community
